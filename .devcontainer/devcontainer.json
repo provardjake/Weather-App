@@ -23,7 +23,4 @@
     }
   },
   "forwardPorts": [3000],
-  "remoteEnv": {
-    "OPENWEATHER_API_KEY": "${localEnv:OPENWEATHER_API_KEY}"
-  }
 }
